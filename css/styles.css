@@ -1,0 +1,34 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dramatic {
+  font-style: italic;
+  color: red;
+  font-size: 50px;
+}
+.important {
+  font-weight: bolder;
+  color: blue;
+  font-size: 35px;
+  background-color: white;
+}
+.unimportant {
+  color: blue;
+  background-color: white;
+  font-size: 25px;
+}
+.aboutme {
+  color: green;
+  background-color: black;
+  font-family: cursive;
+  font-size: 20px;
+}
+h2 {
+  text-align: center;
+  color: green;
+  font-size: 80px;
+  font-family: cursive;
+  border: 100px solid black;
+}
